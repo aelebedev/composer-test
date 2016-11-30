@@ -1,5 +1,13 @@
 <?php
 
-phpinfo();
+namespace R_NAME\Core_CMS_Test;
 
-$i = 0;
+class Test {
+	public function __construct() {
+		;
+	}
+	
+	public function run() {
+		echo 'Запущен Run';
+	}
+};
