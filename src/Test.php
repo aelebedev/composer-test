@@ -14,4 +14,8 @@ class Test {
 	public function version() {
 		echo '2016.12.01';
 	}
+	
+	public function version2() {
+		echo '2016.12.01';
+	}
 };
