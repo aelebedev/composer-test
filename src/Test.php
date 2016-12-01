@@ -10,4 +10,8 @@ class Test {
 	public function run() {
 		echo 'Запущен Run';
 	}
+	
+	public function version() {
+		echo '2016.12.01';
+	}
 };
